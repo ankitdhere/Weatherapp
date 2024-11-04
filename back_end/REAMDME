@@ -8,7 +8,7 @@ npm install
 Start the backend server by running:
 node server1.js
 
-The backend will start and listen on the configured port (default is typically http://localhost:3000)
+The backend will start and listen on the configured port (default is typically http://localhost:5000)
 
 **Running the Backend with Docker**
 
