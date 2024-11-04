@@ -6,6 +6,7 @@ Ensure you have all dependencies installed:
 npm install
 
 **Start the backend server by running:**
+
 **node server1.js**
 The backend will start and listen on the configured port (default is typically http://localhost:5000)
 
