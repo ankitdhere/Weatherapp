@@ -1,4 +1,4 @@
-** Backend Setup **
+# Backend Setup 
 
 The backend of this application is managed through server1.js. Please follow the steps below to run the backend:
 
@@ -10,7 +10,7 @@ node server1.js
 
 The backend will start and listen on the configured port (default is typically http://localhost:5000)
 
-**Running the Backend with Docker**
+# Running the Backend with Docker
 
 Build the Docker Image
 
